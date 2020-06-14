@@ -1,0 +1,1508 @@
+html {
+    
+    
+    -webkit-font-smoothing: antialiased;
+    background-size: cover;
+    height: 100%;
+
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: auto; 
+    background-image:url(grey_wash_wall.png);
+    text-align:center;
+    max-height: 100%;
+    position: relative;
+    max-width: 100%;
+    object-position:center;
+    
+}
+    
+h1{
+}
+h2 {
+    position: relative;
+    text-align:left;
+    color:aliceblue;
+    padding-top:40px;
+    font-size: 16px;
+    line-height: 2.25;
+    top: 30px;
+}
+.Top {
+    align-content: center;
+    font-family: cursive;
+}
+#quote {
+    color:aliceble
+}
+}
+body{ height: 100%;
+    margin: 0;
+    padding: 0;}
+.Top-Left {
+    position: relative;
+    bottom: 550px;
+    padding-left: 15px;
+}
+h3 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+}
+
+.header {
+    background-image:url(dark-honeycomb.jpg);
+    border-style: ridge;
+    border-color: #d0f6fc;
+    z-index: 1;
+    position: relative;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 58px;
+}
+.header-right a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    margin-left: .3%;
+    margin-right: .3%;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 6%;
+}
+
+
+@media only screen and (max-width: 1026px) { 
+  .quotes-to-live-by { 
+    display: none; 
+  } 
+     .about-me { 
+    display: none; 
+  } 
+     .donate { 
+    display: none; 
+  } 
+}
+
+.go a:hover{
+    background-color: #8ea4a8;
+}
+
+.active {
+    border-style: solid;
+    border-color: #8ea4a8;
+}
+
+.quotes-to-live-by {
+    border-style: solid;
+    border-color: #8ea4a8;
+   
+}
+
+.about-me {
+    border-style: solid;
+    border-color: #8ea4a8;
+
+}
+
+
+
+.archives {
+    border-style: solid;
+    border-color: #8ea4a8;
+    color:ghostwhite;
+    
+}
+
+.donate {
+    border-style: solid;
+    border-color: #8ea4a8;
+    
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+.sticky + .content{
+    padding-top: 102px;
+}
+.header-left {
+    float:left;
+    font-size: 40px;
+    position: relative;
+    text-align: left;
+    color:aliceblue;
+    text-decoration:overline underline;
+    padding-left: .5%;
+    margin: 0%;
+    padding-top: 10px;
+    width: 400px;
+    
+}
+
+
+
+.boxed {
+    background-image:url(paper_fibers/paper_fibers/paper_fibers.jpg);
+    opacity: .6;
+    width: 80%;
+    right: 50%;
+    height: 150px;
+    left: 10%;
+    right: 10%;
+    text-align:center;
+    font-weight: 1000;
+     white-space: nowrap;
+    position: relative;
+    bottom: 280px;
+}
+
+
+
+p2 {
+    color:black;
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: calc(1em + .7vw); 
+    font-weight:bold;
+    font-style: italic;
+    line-height: 2.5;
+}
+
+
+
+
+
+
+
+#row-2 {
+    left: 650px;
+}
+
+#mtn-pass {
+      border-style: solid;
+    border-color: black;
+    background-image:url(paper_fibers/paper_fibers/paper_fibers.jpg);
+    min-width: 46%;
+    height: 300px;
+    position: absolute;
+    right:623px;
+}
+
+.boxed2 {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    position: relative;
+    bottom: 250px;
+}
+}
+
+.quote2 {
+    position:relative;
+    top:20px;
+    color:black;
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: 25px;
+    font-weight:lighter;
+    font-style: italic;
+    line-height: 2.5;
+    
+}
+
+
+}
+
+#container {
+     display: table-cell;
+    vertical-align: middle;
+    position: absolute;
+}
+
+.boxed3 {
+     opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    position: relative;
+    bottom: 250px;
+}
+
+
+
+
+
+
+.text {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    position: relative;
+    bottom: 250px;
+}
+p3 {
+  
+    color:black;
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: calc(1em + .7vw); 
+    font-weight:bold;
+    font-style: italic;
+    line-height: 2.5;
+}
+
+
+
+.scroll-img {
+    top:125px;
+    width: 60%;
+    left:15%;
+    right:10%;
+    border-style:solid;
+    height: 350px;
+    
+}
+
+.divide {
+    width:90%;
+    left: 5%;
+    height: 25px;
+    border-bottom-style:dotted;
+    border-bottom-width:thick;
+    border-bottom-color: white;
+    bottom: 225px;
+    position: relative;
+}
+
+#Teton {
+    height: 400px;
+}
+
+h4 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+}
+
+
+
+#coles {
+    display: block;
+    max-width: 100%;
+    height: 460px;
+    width: 100%;
+    border-style:ridge;
+    opacity: .9;
+    min-width: 100%;
+    position:relative;
+    overflow: hidden;
+    opacity: .8;
+    bottom: 36px;
+    
+}
+
+
+
+.top-image {
+    overflow:hidden;
+    position:relative;
+}
+
+#lake {
+    max-width: 60%;
+    max-height: 55%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    position: relative;
+    bottom: 200px;
+    
+}
+
+.cotainer2 {
+    position: relative;
+}
+
+.quotes {
+    position: relative;
+    width:90%;
+    bottom: 295px;
+    left: 5%;
+    
+}
+
+.divide2 {
+    width:90%;
+    left: 5%;
+    height: 25px;
+    border-bottom-style:dotted;
+    border-bottom-width:thick;
+    border-bottom-color: white;
+    bottom: 205px;
+    position: relative;
+}
+
+
+
+.Gallery {
+    position:relative;
+    width: 90%;
+    bottom: 200px;
+    font-weight: lighter;
+    left: 5%;
+}
+
+.cotainer3 {
+    position: relative;
+}
+
+.cotainer4 {
+    position:relative; 
+}
+
+
+
+#tetons {
+   max-width: 60%;
+    max-height: 55%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    position: relative;
+    bottom: 200px;
+    
+}
+
+#Jake {
+    max-width: 60%;
+    max-height: 55%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    position: relative;
+    bottom: 200px;
+
+}
+
+.cotainer5 {
+     position: relative;
+     
+}
+
+.cotainer6 {
+     position: relative;
+}
+
+#nica {
+     max-width: 60%;
+    max-height: 55%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    position: relative;
+    bottom: 200px;
+}
+
+#house {
+     max-width: 60%;
+    max-height: 55%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    position: relative;
+    bottom: 200px;
+}
+
+.Wyoming {
+     opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    position: relative;
+    bottom: 205px;
+    
+}
+
+
+
+
+
+
+
+p4 {
+    color:black;
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: calc(1em + .7vw);
+    font-weight:lighter;
+    font-style: italic;
+}
+
+.caption1 {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    position: relative;
+    bottom: 205px;
+}
+
+.caption2 {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    position: relative;
+    bottom: 205px;
+}
+
+.caption3 {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    position: relative;
+    bottom: 205px;
+}
+
+.caption4 {
+    opacity: .6;
+    background-image:url(paper_fibers.jpg);
+    text-align:center;
+    font-weight:1000;  
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    position: relative;
+    bottom: 205px;
+    
+}
+
+h5 {
+     font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+    width: 90%;
+    left: 5%;
+    bottom: 200px;
+}
+
+
+
+.reflection {
+    bottom: 200px;
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    font-size: calc(.8em + .3vw);
+    color: ghostwhite;
+    margin: auto;
+    padding: 10px;
+    text-indent: 10px;
+    text-align: left;
+    width: 90%;
+}
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bike-ride {
+    height: 144px;
+    width:500px;
+    left: 610px;
+}
+
+#snowboard {
+    max-width: 40%;
+    max-height: 500px;
+    position:relative;
+}
+
+#iceland-snorkel {
+    max-width: 40%;
+    max-height: 40%;
+    position: relative;
+}
+
+#family {
+    height: 300px;
+    position: relative;
+    right:255px;
+}
+
+#grandc {
+    max-width: 27%;
+    max-height: 45%;
+
+}
+
+.column{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 2.5px;
+    position: relative;
+}
+
+
+
+}
+
+
+
+
+
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column-2 {
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.column-1 {
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    position: relative;
+}
+#jake-me {
+    max-width:27%;
+    max-height: 20%;
+    vertical-align: top;
+}
+
+
+
+
+
+
+
+
+.divide3 {
+    width:90%;
+    left: 5%;
+    height: 25px;
+    border-bottom-style:dotted;
+    border-bottom-width:thick;
+    border-bottom-color: white;
+    bottom: 50px;
+    position: relative;
+}
+
+.latest-title {
+    position:relative;
+    top: 3650px;
+    width:90%;
+   
+}
+
+h6 {
+       font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+    width: 90%;
+    left: 5%;
+    bottom: 45px;
+}
+
+.recent {
+    position: relative;
+    width: 90%;
+    height: 575px;
+    left: 5%;
+    bottom: 65px;
+}
+    
+
+p6 {
+    
+    color: ghostwhite;
+    font-size: calc(1em + 1.7vw);
+    border-bottom-style: solid;
+ 
+}
+
+
+
+.container2 {
+    
+    
+
+}
+
+p1 {
+    color:black;
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: calc(1em + .7vw); 
+    font-weight:bold;
+    font-style: italic;
+    line-height: 2.5;
+}
+
+
+}
+
+
+
+.about-title {
+     position:relative;
+    bottom: 200px;
+    font-weight: lighter;
+}
+
+
+
+.reflect {
+     color: ghostwhite; 
+}
+
+
+
+#bikeride {
+    max-height: 30%;
+    max-width: 25%;
+    
+}
+
+.recent1 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    padding: 8px;
+}
+
+.recent2 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    padding: 8px;
+}
+
+p7 {
+    color: ghostwhite;
+    font-size: calc(.8em + .3vw);
+}
+
+.recent3 {
+     position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    position: relative;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    overflow: hidden;
+    color: ghostwhite;
+    margin: 100px auto;
+    padding: 8px;
+}
+
+p8 {
+     position: relative;
+     text-align:left;
+    color: ghostwhite;
+}
+
+.recent4 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    position: relative;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    line-height: 2;
+    font-family: sans-serif;
+    overflow: hidden;
+    color: ghostwhite;
+    margin: 100px auto;
+    width: 50%;
+}
+
+p9 {
+    color: ghostwhite;
+    font-size:calc(1em + 3vw);
+    text-align: center;
+    padding: 2%;
+}
+
+p10 {
+    color: ghostwhite;
+    font-size:calc(1em + 1vw);
+    text-align: center;
+    padding: 2%;
+}
+
+strong {
+    font-size: 30px;
+}
+
+.archiveb {
+    border-style: solid;
+    border-color: #8ea4a8;
+    position: relative;
+    right: 4px;
+    color:ghostwhite;
+    padding: 10px;
+    font-size: 30px;
+    }
+
+
+.here-hover a:hover{
+    background-color: #8ea4a8;
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+.recent5 {
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1; 
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 50px;
+    position: relative;
+    top: 70px;
+    display: flex;
+    flex-direction: column;
+    min-height: 575px;
+}
+
+p11 {
+    position: relative;
+     text-align:left;
+    color: ghostwhite;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size:calc(1em + 4vw);
+}
+
+p12 {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.here-hover {
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+.bottom {
+    position: relative;
+    width: 90%;
+    height: 575px;
+    left: 5%;
+}
+
+.divide4 {
+     width: 100%;
+    height: 25px;
+    border-bottom-style:dotted;
+    border-bottom-width:thick;
+    border-bottom-color: white;
+    position: relative;
+}
+p15 {
+    font-family: sans-serif;
+    font-size: calc(.6em + 1vw);
+    padding: 2%;
+    
+}
+
+
+
+
+
+
+.active2 {
+     border-style: solid;
+    border-color: #8ea4a8;
+    position: relative;
+    left: 375px;
+}
+
+.faceb2 {
+       position: relative;
+}
+
+.insta2 {
+     position: relative;
+
+}
+
+.arches {
+    
+}
+
+
+
+#mtnpass {
+   
+     min-width:100px;
+    height: 100%;
+    width: 400px;
+    padding: 2px;
+}
+
+#mirror {
+
+    min-width:100px;
+    height: 100%;
+     width: 400px;
+    padding: 2px;
+}
+
+
+
+.container15 {
+    position: relative; 
+    top: 120px;
+}
+
+.page2top {
+    position: relative;
+    top: 40px;
+    left: 20px;
+    overflow: auto;
+}
+
+.archives4 {
+       position: relative;
+    width:90%;
+    left:5%;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vault {
+    position: absolute;
+    width: 90%;
+    height: 575px;
+    left: 5%;
+}
+
+.vault1 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill:auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 60px;
+    width: 90%;
+    text-align: left;
+    padding: 10px;
+    min-height: 0px;
+}
+
+.vault2 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    width: 90%;
+        text-align: left;
+    min-height: 0px;
+    padding: 10px;
+}
+
+.vault3 {
+    position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    width: 90%;
+    text-align: left;
+    min-height: 0px;
+    padding: 10px;
+}
+
+.archivestop {
+    position: relative;
+    width:90%;
+    left:5%;
+}
+
+.pictop {
+    position: relative;
+    height: 300px;
+}
+
+
+
+
+
+.v3text {
+ 
+}
+
+
+
+
+
+
+
+.divide10 {
+     width:96%;
+    height: 25px;
+    right:2%;
+    left:2%;
+    border-bottom-style:dotted;
+    border-bottom-width:thick;
+    border-bottom-color: white;
+    position: relative;
+}
+
+#hong-phuc {
+    max-width: 100%;
+    max-height: 80%;
+    position: relative;
+}
+
+#mylaptop {
+     max-width: 100%;
+    max-height: 80%;
+    position: relative;
+
+}
+
+#spicypai {
+    max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+}
+
+#budha {
+    max-width: 100%;
+    max-height: 80%;
+    position: relative;
+}
+
+.the-latest1 {
+       border-style: solid;
+    border-color: #8ea4a8;
+ 
+}
+
+#gargar {
+      max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+
+}
+
+#damn {
+    max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+}
+
+#homesweet {
+       max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+}
+
+.vault4 {
+        position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    width: 90%;
+    text-align: left;
+    min-height: 0px;
+    padding: 10px;
+}
+
+#aunong {
+     max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+}
+
+.vault5 {
+     position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    width: 90%;
+    text-align: left;
+    min-height: 0px;
+    padding: 10px;
+}
+
+#slinky {
+         max-width: 90%;
+    max-height: 20%;
+    padding-bottom: 12%;
+    -webkit-transform: rotate(90deg);
+       -moz-transform: rotate(90deg);
+       -o-transform: rotate(90deg);
+       -ms-transform: rotate(90deg);
+       transform: rotate(90deg);
+}
+
+.vault6 {
+     position: relative;
+    background-image: url(paper_fibers.jpg);
+    background: transparent\9;  
+    background:rgba(0,0,0,.3);  
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);  
+    zoom: 1;  
+    column-count:3;
+    column-gap:10px;
+    column-fill: auto;
+    column-rule-style:groove;
+    column-gap: normal;
+    line-height: 2;
+    font-family: sans-serif;
+    color: ghostwhite;
+    margin: 100px auto;
+    margin-top: 0px;
+    width: 90%;
+    text-align: left;
+    min-height: 0px;
+    padding: 10px;
+}
+
+#maura {
+     max-width: 90%;
+    max-height: 20%;
+    padding-left: 5%;
+}
+
+
+
+
+
+.big {
+    position: relative;
+}
+
+
+
+.stupid {
+    position: relative;
+    bottom: 110px;
+}
+
+
+
+#kids {
+    max-width: 20%;
+    max-height: 15%;
+    vertical-align: top;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+p18 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+}
+
+.dadcx {
+    font-size: 32px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif, inherit;   
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    position:relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color:black;
+    box-sizing: content-box;
+    background-color:white;
+    width: 100%;
+    top: 70px;
+}
+
+#breast {
+    border-style:solid;
+    padding: 30px;
+    border-color: #8ea4a8;
+    border-width: 4px;
+    position:relative;
+    display: inline-block;
+    margin: 10px;
+    max-width: 50%;
+    max-height: 50%;
+    
+}
+
+
+
+
+
+
+#Environment {
+     border-style:solid;
+    padding: 10px;
+    border-color: #8ea4a8;
+    border-width: 4px;
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#marin {
+     border-style:solid;
+    padding: 23px;
+    border-color: #8ea4a8;
+    border-width: 4px;
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    max-height: 50%;
+    max-width: 50%;
+}
+
+
+
+.charity {
+    position: relative;
+    top: 25px;
+    padding: 10px;
+
+}
+
+.charity img:hover {
+    opacity: .3;
+}
+
+
+#geo {
+
+     min-width:100px;
+    height: 100%;
+     width: 400px;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+.archivesgo {
+    border-style: solid;
+    border-color: #8ea4a8;
+    position: relative;
+    color:ghostwhite;
+    padding: 5%;
+    font-size: 30px;
+    bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.header-right {
+    position: relative;
+
+    
+}
+
+
+
+
+
+.try {
+}
+
+.go {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    
+        
+}
+
+.social {
+    position: relative;
+    
+}
+
+
+
+.insta {
+    position: relative;
+    
+}
+
+
